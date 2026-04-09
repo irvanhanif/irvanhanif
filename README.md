@@ -1,73 +1,61 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGwwd2JsdjlhZjAzbWhneDlnbzZmMThreHU3NTY4bmpnNXhtNHRwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WTjXuYA2y4o3UZly3W/giphy.gif" width="200"/>
-  <div id="badges">
+<div align="center">
+  <!-- <img src="github_banner.png" width="100%" alt="Banner" /> -->
+
+  <!-- <br/> -->
+
+  <h1>Hi there, I'm Muhammad Irvan Hanif 👋</h1>
+  <h3>🚀 Full Stack Developer | Tech Enthusiast | Problem Solver</h3>
+
+  <p align="center">
     <a href="https://linkedin.com/in/muhammad-irvan-hanif">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.instagram.com/irvan_hanif24/">
-      <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=irvanhanif&style=flat-square&color=blue" alt=""/>
-  
-  <h1>
-    Hi there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
+    <a href="mailto:irvanhanif24@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-### :technologist: About Me :
-I am a Full Stack Developer from Indonesia, with experience in many college project.
-- 🌱 I’m currently learning about web and mobile development.
----
+  <img src="https://komarev.com/ghpvc/?username=irvanhanif&style=flat-square&color=blue" alt="Profile Views" />
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" **alt="Express" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="Nestjs" **alt="Nestjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/knexjs/knexjs-original-wordmark.svg" title="Knexjs" **alt="Knexjs" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="Prisma" **alt="Prisma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original-wordmark.svg" title="Swagger" **alt="Swagger" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" **alt="Go" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="Yaml" **alt="Yaml" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" **alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original-wordmark.svg" title="Postman" **alt="Postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>
+  <br/>
 </div>
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=irvanhanif)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irvanhanif&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-## Hi there 👋
+### 👤 About Me
+I am a **Full Stack Developer** from Indonesia with a strong foundation in building dynamic and responsive web applications. I enjoy the process of continuous learning and am currently diving deeper into **Web and Mobile Development** to expand my expertise.
 
-**irvanhanif/irvanhanif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on college projects and personal side-hustles.
+- 🌱 I’m currently learning **Advanced Backend Architectures** and **Mobile Frameworks**.
+- 💬 Ask me about **JavaScript, PHP, or Go**.
+- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/muhammad-irvan-hanif) or [Instagram](https://www.instagram.com/irvan_hanif24/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+| Category | Icons |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,wordpress,ts" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,nestjs,go,php,py" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mysql,postgres,prisma,knex" /> |
+| **Others** | <img src="https://skillicons.dev/icons?i=git,vscode,postman,ubuntu" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="48" height="48" /> |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=irvanhanif&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irvanhanif&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=irvanhanif&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
